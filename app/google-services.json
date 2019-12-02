@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "925621591438",
+    "firebase_url": "https://aero-chat.firebaseio.com",
+    "project_id": "aero-chat",
+    "storage_bucket": "aero-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925621591438:android:b9c453cd91ed4ad1cb98df",
+        "android_client_info": {
+          "package_name": "com.example.aerochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925621591438-gsuav97bei6r1r0ob95su8fb4ro1kn6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aerochat",
+            "certificate_hash": "44897e21aeaf71719a878731d63912587acd4c21"
+          }
+        },
+        {
+          "client_id": "925621591438-3c9o5vt7gl8ososj0bju8drd8b8aaqgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWBpqZD6sYvjw0_2pceS07uIbvvNZDR1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925621591438-3c9o5vt7gl8ososj0bju8drd8b8aaqgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
